@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "zhixi.hello",
+      "type": "com.zhixi.beans.HelloProperties",
+      "sourceType": "com.zhixi.beans.HelloProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "zhixi.hello.prefix",
+      "type": "java.lang.String",
+      "sourceType": "com.zhixi.beans.HelloProperties"
+    },
+    {
+      "name": "zhixi.hello.suffix",
+      "type": "java.lang.String",
+      "sourceType": "com.zhixi.beans.HelloProperties"
+    }
+  ],
+  "hints": []
+}
